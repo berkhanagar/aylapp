@@ -46,11 +46,11 @@ enum AppNotificationCatalog {
         //         repeats: true
         //     )
         // )
-        AppNotificationPlan(id: "birthday", title: "🎂 Hepi bebişko deeey", body: "İyi ki dooğduun böbüşkoooo", schedule: .calendar(DateComponents(month: 4, day: 28, hour: 12, minute: 0, second: 0), repeats: true)),
-        AppNotificationPlan(id: "birthday", title: "🎂 Hepi bebişko dey devam ediyooor", body: "İyi ki dooğduun böbüşkoooo", schedule: .calendar(DateComponents(month: 4, day: 28, hour: 14, minute: 30, second: 0), repeats: true)),
-        AppNotificationPlan(id: "birthday", title: "Yeni görev", body: "Koş ve sarıl 🤭", schedule: .calendar(DateComponents(month: 4, day: 28, hour: 15, minute: 0, second: 0), repeats: true)),
-        AppNotificationPlan(id: "birthday", title: "🎂 Hepi bebişko deeey", body: "Tamam, yeter, çok çalıştın. Biraz da ...", schedule: .calendar(DateComponents(month: 4, day: 28, hour: 16, minute: 45, second: 0), repeats: true)),
-        AppNotificationPlan(id: "birthday", title: "🎂 Hepi bebişko deeey", body: "Hala", schedule: .calendar(DateComponents(month: 4, day: 28, hour: 23, minute: 0, second: 0), repeats: true)),
+        AppNotificationPlan(id: "birthday1", title: "🎂 Hepi bebişko deeey", body: "İyi ki dooğduun böbüşkoooo", schedule: .calendar(DateComponents(month: 4, day: 28, hour: 12, minute: 45, second: 0), repeats: true)),
+        AppNotificationPlan(id: "birthday2", title: "🎂 Hepi bebişko dey devam ediyooor", body: "İyi ki dooğduun böbüşkoooo", schedule: .calendar(DateComponents(month: 4, day: 28, hour: 14, minute: 30, second: 0), repeats: true)),
+        AppNotificationPlan(id: "birthday3", title: "Yeni görev", body: "Koş ve sarıl 🤭", schedule: .calendar(DateComponents(month: 4, day: 28, hour: 15, minute: 0, second: 0), repeats: true)),
+        AppNotificationPlan(id: "birthday4", title: "🎂 Hepi bebişko deeey", body: "Tamam, yeter, çok çalıştın. Biraz da ...", schedule: .calendar(DateComponents(month: 4, day: 28, hour: 16, minute: 45, second: 0), repeats: true)),
+        AppNotificationPlan(id: "birthday5", title: "🎂 Hepi bebişko deeey", body: "Hala", schedule: .calendar(DateComponents(month: 4, day: 28, hour: 23, minute: 0, second: 0), repeats: true)),
     ]
 }
 
